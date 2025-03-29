@@ -137,7 +137,3 @@ The tests verify basic functionality such as:
 
 - The server is designed for learning purposes and might not handle high loads
 - For production use, consider using the actual Redis server
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
